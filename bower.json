@@ -1,0 +1,18 @@
+{
+  "name": "inuitless-box-sizing",
+  "version": "0.2.0",
+  "homepage": "https://github.com/inuitless/generic.box-sizin",
+  "authors": [
+    "Harry Roberts <harry@csswizardry.com>",
+    "Nicolas Carlo <nicolascarlo.espeon@gmail.com>"
+  ],
+  "description": "Global box sizing rules for the inuitcss framework",
+  "main": "generic.box-sizin.less",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css",
+    "less"
+  ],
+  "license": "Apache"
+}
